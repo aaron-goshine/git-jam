@@ -1,0 +1,8 @@
+Fetching lambci/lambda:nodejs10.x Docker container image......
+Mounting /Users/Aaron.goshine/Google Drive/Workspace/ttc/diffuser/spin-leader as /var/task:ro,delegated inside runtime container
+START RequestId: dabfb835-af72-1037-d1c7-f0017b7a1981 Version: $LATEST
+END RequestId: dabfb835-af72-1037-d1c7-f0017b7a1981
+REPORT RequestId: dabfb835-af72-1037-d1c7-f0017b7a1981	Init Duration: 309.29 ms	Duration: 5.54 ms	Billed Duration: 100 msMemory Size: 128 MB	Max Memory Used: 55 MB
+2020-03-17 06:57:22 127.0.0.1 - - [17/Mar/2020 06:57:22] "GET /spin/leaders HTTP/1.1" 200 -
+Invoking app.handler (nodejs10.x)
+
